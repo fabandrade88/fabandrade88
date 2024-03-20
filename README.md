@@ -22,4 +22,7 @@ CSS HTML Javascript React React Router Tailwind Styled-Components VueJs NodeJs E
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fabandrade88&theme=dark" alt="GitHub Streak" /></a>
 
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabandrade88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
