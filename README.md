@@ -8,7 +8,7 @@ About me:
 - I am originally from 🇧🇷 but since 2016 I am living in Europe.
 - I lived from 2016 to 2019 in Berlin 🇩🇪 and since 2009 I am in Basel 🇨🇭.
 
-## Tools and Language
+## 🧰 Tools and Language
 CSS HTML Javascript React React Router Tailwind Styled-Components VueJs NodeJs Express Typescript MongoDB SQLite Git
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -24,7 +24,7 @@ CSS HTML Javascript React React Router Tailwind Styled-Components VueJs NodeJs E
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fabandrade88&theme=dark" alt="GitHub Streak" /></a>
 
-## Most Used Languages
+## 💻 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabandrade88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
