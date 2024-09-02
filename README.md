@@ -7,6 +7,7 @@ About me:
 - 📕 My hobbies are playing drums and drawing - but coding can be considered a hobby too.
 - 🏝️ I am originally from 🇧🇷 but since 2016, I have been living in Europe.
 - 📍 I lived from 2016 to 2019 in Berlin 🇩🇪 and since 2019 I am in Basel 🇨🇭.
+- 💻 I am studying Software Engineering at UNINTER.
 
 ## 🧰 Tools and Language
 CSS HTML Javascript React React Router Tailwind Styled-Components VueJs NodeJs Express Typescript MongoDB SQLite Git
