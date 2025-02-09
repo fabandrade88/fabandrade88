@@ -2,12 +2,12 @@
 
 About me:
 - ⛑ I have almost 20 years of working in the process automation industry.
-- ☁ For the last 5 years, I've been working with cloud solutions.
+- ☁ For the last 5 years, I've been working with IIoT cloud solutions.
 - 🖥 I decided to learn how to code when I realized OT is more and more inside IT.
 - 📕 My hobbies are playing drums and drawing - but coding can be considered a hobby too.
 - 🏝️ I am originally from 🇧🇷 but since 2016, I have been living in Europe.
 - 📍 I lived from 2016 to 2019 in Berlin 🇩🇪 and since 2019 I am in Basel 🇨🇭.
-- 💻 I am studying Software Engineering at UNINTER University.
+- 💻 I am doing a Bachelor of Software Engineering at UNINTER University.
 
 ## 🧰 Tools and Language
 CSS HTML Javascript React React Router Tailwind Styled-Components VueJs NodeJs Express Typescript MongoDB SQLite Git
