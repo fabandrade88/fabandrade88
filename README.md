@@ -1,4 +1,4 @@
-## 👋 Hello! My Name is Fabricio de Andrade
+## 👋 Hello! My Name is Fabricio O. de Andrade
 
 About me:
 - ⛑ I have almost 20 years of working in the process automation industry.
